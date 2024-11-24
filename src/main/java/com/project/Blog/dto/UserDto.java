@@ -23,7 +23,7 @@ public class UserDto {
     private String firstName;
     private String lastName;
     private String email;
-    private String password;
+//    private String password;
     private String mobileNumber;
     private String address;
     private String role;
